@@ -1,0 +1,10 @@
+
+###Open Terminal.....
+
+step - 1 :
+          sudo apt-get update
+step - 2 : 
+          sudo apt-get install texstudio
+
+      >>>>....enter 'y' to give permission...
+      >>>>>>>....... Then the installation will be done.....!!
