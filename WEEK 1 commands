@@ -132,6 +132,7 @@ chown: invalid user: ‘file’
 				
 //commands all referenced.... below commands
 
+(base) user@nmst-1402:~$ history
 
 touch file1 file2
  1961  whoami
