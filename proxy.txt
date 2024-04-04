@@ -1,0 +1,5 @@
+Acquire::http::Proxy "http://tempuser1:rgukt123@staffnet.rgukt.ac.in:3128/";
+Acquire::https::Proxy "http://tempuser1:rgukt123@staffnet.rgukt.ac.in:3128/";
+Acquire::socks::Proxy "http://tempuser1:rgukt123@staffnet.rgukt.ac.in:3128/";
+Acquire::ftp::Proxy "http://tempuser1:rgukt123@staffnet.rgukt.ac.in:3128/";
+
