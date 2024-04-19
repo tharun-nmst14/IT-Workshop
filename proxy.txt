@@ -1,6 +1,6 @@
 ....>>>>> open terminal....
 
-sudo apt-gedit \etc\apt\apt.conf
+ sudo gedit /etc/apt/apt.conf
 
 ...>>>new text window opens 
         copy below and paste in terminal... save it
