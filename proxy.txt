@@ -1,3 +1,10 @@
+....>>>>> open terminal....
+
+sudo apt-gedit \etc\apt\apt.conf
+
+...>>>new text window opens 
+        copy below and paste in terminal... save it
+
 Acquire::http::Proxy "http://tempuser1:rgukt123@staffnet.rgukt.ac.in:3128/";
 Acquire::https::Proxy "http://tempuser1:rgukt123@staffnet.rgukt.ac.in:3128/";
 Acquire::socks::Proxy "http://tempuser1:rgukt123@staffnet.rgukt.ac.in:3128/";
